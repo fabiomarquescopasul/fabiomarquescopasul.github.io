@@ -6,3 +6,5 @@ This tutorial focused mainly on Git and using GitHib as its remote.
 This repository is built step by step in the tutorial.
 
 Its now includes steps for GitHub
+
+New line to new branch
